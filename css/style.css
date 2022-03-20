@@ -1,0 +1,89 @@
+.navbar-brand {
+  font-family: "Itim", cursive;
+  font-size: 2em;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar1-brand {
+  font-family: "Itim", cursive;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.custom-nav .custom-nav-item a {
+  color: #fff !important ;
+}
+.custom-nav-item:hover {
+  background-color: #dc3545;
+  border: solid #dc3545 1px;
+  border-radius: 10px;
+}
+
+.remove-img-marg {
+  margin: 0px;
+  padding: 0px;
+}
+
+.product {
+  margin-top: 84px !important;
+}
+.product .col-6 img {
+  padding: 0 !important;
+}
+.product .col-6 {
+  padding: 20px !important;
+}
+.product .h4 {
+  margin: 20px 0;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.inputc {
+  width: 50px;
+  height: 50px;
+  padding-left: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+  border: 1px solid #fff;
+}
+/* .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+        line-height: 1;
+        margin:auto;
+        width: 100%; 
+    } */
+.custom-nav .custom-nav-item a {
+  padding: 10px 20px;
+}
+.pro1 {
+  font-family: "Itim", cursive;
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0 auto;
+  text-align: center;
+}
+.foot1 {
+  background-color: grey;
+}
+
+.box{
+  position: fixed; 
+  bottom: 10px; 
+  right: 20px;
+  margin-bottom: 30px;
+}
+
+.carousel-inner > .item > img {
+  height:360px !important;
+  object-fit: cover !important;
+}
+
+.carousel {
+
+  height:360px;
+  
+  }
